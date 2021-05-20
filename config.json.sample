@@ -1,0 +1,13 @@
+{
+  "FilePath": "PATH/TO/SOURCE/FILE",
+  "DestinationPath": "PATH//TO//BACKUP//FOLDER",
+  "WebdavUrl": "webdav_url",
+  "WebdavUser": "webdav_username",
+  "WebdavPassword": "webdav_password",
+  "UseEmailer": true
+  "FromEmail": "from_email",
+  "FromEmailPassword": "from_email_password",
+  "ToEmail": "to_email",
+  "SmtpSever": "email_smtp_server",
+  "SmtpAuthServer": "email_smtp_auth_server"
+}
