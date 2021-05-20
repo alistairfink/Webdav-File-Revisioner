@@ -1,6 +1,6 @@
 {
   "FilePath": "PATH/TO/SOURCE/FILE",
-  "DestinationPath": "PATH//TO//BACKUP//FOLDER",
+  "DestinationPath": "PATH//TO//BACKUP//FOLDER//",
   "WebdavUrl": "webdav_url",
   "WebdavUser": "webdav_username",
   "WebdavPassword": "webdav_password",
